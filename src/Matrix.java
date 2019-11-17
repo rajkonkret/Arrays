@@ -18,7 +18,7 @@ public class Matrix {
             }
 
         }
-        System.out.println(Arrays.toString(matrix));// ????
+        System.out.println(Arrays.toString(matrix));// ????wyświetli hashe
 
         for (int[] table:matrix){
             System.out.println(Arrays.toString(table));
