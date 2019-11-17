@@ -19,5 +19,9 @@ public class Matrix {
 
         }
         System.out.println(Arrays.toString(matrix));// ????
+
+        for (int[] table:matrix){
+            System.out.println(Arrays.toString(table));
+        }
     }
 }
